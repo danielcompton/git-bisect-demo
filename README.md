@@ -1,10 +1,12 @@
 # git-bisect-tut
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure library designed to demonstrate git-bisect
 
 ## Usage
 
-FIXME
+```
+git-bisect start
+```
 
 ## License
 
