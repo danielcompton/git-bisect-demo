@@ -2,7 +2,7 @@
 
 (defn adder
   [x y]
-  (+ x y))
+  (+ x))
 
 (defn subtracter
   [x y]
