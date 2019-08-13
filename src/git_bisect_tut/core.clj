@@ -3,7 +3,3 @@
 (defn adder
   [x y]
   (+ x))
-
-(defn subtracter
-  [x y]
-  (- x y))
