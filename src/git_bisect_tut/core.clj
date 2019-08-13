@@ -1,7 +1,7 @@
 (ns git-bisect-tut.core)
 
 (defn foo
-  "I don't do a whole lot."
+  "I don't do much."
   [x]
   (println x "Hello, World!"))
 
